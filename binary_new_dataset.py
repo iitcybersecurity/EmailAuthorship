@@ -18,7 +18,7 @@ import math
 #change it with the appropriate path
 dataset_path = "/home/giacomo/CNR/EmailAuthorship/enron_dataset/"
 target_user = "dasovich-j"
-non_target_user = "dasovich-j"
+non_target_user = "shackleton-s"
 
 def read_data():
 	emails = []
