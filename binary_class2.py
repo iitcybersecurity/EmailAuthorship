@@ -68,7 +68,7 @@ y_val=[int(element[1][0]) for element in sentences_val.as_numpy_iterator()]
 y_test=[int(element[1][0]) for element in sentences_test.as_numpy_iterator()]
 
 #Tokenizer
-tokenizer = Tokenizer(num_words=6000)
+tokenizer = Tokenizer(num_words=5000)
 tokenizer.fit_on_texts(train)
 tokenizer.fit_on_texts(val)
 tokenizer.fit_on_texts(test)
@@ -105,7 +105,8 @@ def create_embedding_matrix(filepath, word_index, vocab_size, embedding_dim):
 
     return embedding_matrix
 
-embedding_dim = 10
+embedding_dim = 20
+'''
 embedding_matrix = create_embedding_matrix(
                     'pretrained_Glove/glove.6B.50d.txt',
                     word_index, 
@@ -114,30 +115,16 @@ embedding_matrix = create_embedding_matrix(
 
 nonzero_elements = np.count_nonzero(np.count_nonzero(embedding_matrix, axis=1))
 #print(nonzero_elements / vocab_size)
-
+'''
 
 
 #Layers
 model = Sequential()
-model.add(layers.Embedding(input_dim=vocab_size, 
-                           output_dim=embedding_dim, 
-                           #weights=[embedding_matrix], 
-                           input_length=maxlen, 
-                           #trainable=True,
-                           mask_zero=True))
-model.add(layers.SpatialDropout1D(0.2))
-model.add(layers.Conv1D(16, 7, activation='relu'))
-model.add(layers.MaxPooling1D(2))
-model.add(layers.Bidirectional(
-                        keras.layers.GRU(10,
-                                        return_sequences=True,
-                                        dropout=0.1,
-                                        recurrent_dropout=0.1)))
-model.add(layers.Lambda(ut.concat))
-model.add(layers.Dense(128, activation='relu'))
-model.add(layers.Dense(32, activation='sigmoid'))
+model.add(layers.Embedding(vocab_size, embedding_dim, input_length=maxlen))
+model.add(layers.Conv1D(64, 5, activation='relu'))
+model.add(layers.GlobalMaxPooling1D())
+model.add(layers.Dense(10, activation='relu'))
 model.add(layers.Dense(2, activation='sigmoid'))
-
 model.compile(optimizer='adam',
               loss='categorical_crossentropy',
               metrics=['accuracy'])
