@@ -38,14 +38,6 @@ def plot_history(history):
     plt.legend()
     plt.show()
 
-def plot(indexes, heats, words):
-	plt.figure(figsize=(12, 5))
-	plt.bar(indexes, heats)
-	for i in indexes:
-		plt.text(i-.25, max(0, heats[i]*1.05), words[i], rotation=90)
-	plt.title('Erica')
-	plt.show()
-
 def print_samples():
     pred = model.predict_classes(X_test, verbose = 2)
     for i in range(len(y_test)-1) :
