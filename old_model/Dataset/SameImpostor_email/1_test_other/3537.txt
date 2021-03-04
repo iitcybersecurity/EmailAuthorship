@@ -1,0 +1,10 @@
+Attached is a rough draft of some scenario development around the PX credit 
+and rate issues.  Few points:
+
+Apologies in advance for any errors and inaccuracies.
+Given time crunch, the model developed is quite crude and will need 
+refinement (to be sure).
+The bankruptcy scenario is included (scenario 4), but (again, given the time 
+crunch) has not been analyzed to the same extent as the other scenarios.  
+Tribolet should be able to provide good insights there, however.
+The exposure has not been calculated since GA does not have the numbers, but 

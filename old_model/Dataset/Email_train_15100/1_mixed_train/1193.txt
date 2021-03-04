@@ -1,0 +1,13 @@
+Shijie,
+
+Additional   changes.
+
+Abstract:
+
+The power market developments in the US have created several unique
+challenges for energy industry economists. We discuss the major factors 
+underlying
+the exceptionally high volatility of electricity prices. We feel that some of
+them may reflect the flaws in power pools design and incomplete transition to 
+fully deregulated markets in
+generation and transmission.

@@ -1,0 +1,84 @@
+{
+  "sent": [
+    {
+      "cc": "",
+      "from": "kevin.presto@enron.com",
+      "to": "dblack@enron.com",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/EES_Bid_Offer_Spread_updated_01_17_01_5.html",
+      "bcc": "",
+      "date": "Wed, 17 Jan 20001 01:51:000 -08000 (PST)",
+      "subject": "EES Bid/Offer Spread, updated 01/17/01",
+      "forwarded": [],
+      "body": "\nBelow are the EPMI proposed bid/offer spreads for EES.   These are very aggressive markets given the liquidity issues and regulatory uncertainty that still exist in the Eastern Interconnect.   There are no other counterparties in the market that will consistently make the proposed 2-ways.\n"
+    },
+    {
+      "cc": "",
+      "from": "tamara.black@enron.com",
+      "to": "",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/NONE_5112.html",
+      "bcc": "",
+      "date": "Fri, 1 Dec 2000 06:04:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nPlease call Bill Rust   x333801 reg TVA Jan/Feb Transmission when you get a chance.   Thanks Tjae\n"
+    },
+    {
+      "cc": "",
+      "from": "tamara.black@enron.com",
+      "to": "",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/NONE_5113.html",
+      "bcc": "",
+      "date": "Wed, 17 Jan 20001 000:15:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nCould you please come check Kevin Presto TV...he thinks the cable is out of it. Thanks Tjae\n"
+    },
+    {
+      "cc": "",
+      "from": "tamara.black@enron.com",
+      "to": "",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/NONE_5114.html",
+      "bcc": "",
+      "date": "Wed, 17 Jan 20001 01:26:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nYou can set up the Tv's now per Fletch thanks again,,,Tjae\n"
+    },
+    {
+      "cc": "rogers.herndon@enron.com, jenny.latham@enron.com, don.miller@enron.com",
+      "from": "kevin.presto@enron.com",
+      "to": "john.lavorato@enron.com",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/New_Albany_Booking_2.html",
+      "bcc": "rogers.herndon@enron.com, jenny.latham@enron.com, don.miller@enron.com",
+      "date": "Wed, 20 Dec 2000 000:50:000 -08000 (PST)",
+      "subject": "New Albany Booking",
+      "forwarded": [
+        " Kevin M Presto/HOU/ECT on 12/20/2000 08:41 AM ---John J Lavorato@ENRON12/111/2000 07:47 AMTo: Kevin M Presto/HOU/ECT@ECTcc:   Subject: The following points refer to the methodology that we are taking to rebook the New Albany Plant.   Please send me a note immediately if you disagree.Assume that NewAlb is a non mark to market entity and Enron is the mark to market entity.   However, it is fully owned and operated by us for now.*   The power mark to market book will pay NewAlb a capacity payment of $4.87 for 5 years.   We shaped this payment as follows:20001 - $5.0620002 - $4.9620003 - $4.8620004 - $4.7520005 - $4.65*   This payments allows Enron to supply gas to NewAlb and receive power. *   Enron will pay NewAlb $1000 per unit start.*   Enron will also pay NewAlb $2.000/MW hour for varialbe o&amp;m.*   This will create an entity \"NewAlb\" that will return 9% assuming a book value of $3336/kw on 12/31/20005 vs. 409 currently.*   If NewAlb pays the 9% out that entity should be relatively flat each year for the next five.\n"
+      ],
+      "body": "\nBelow are the assumptions agreed for booking the New Albany spread option:EPMI East Power Book pays New Albany a fixed demand charge for the next 5 years as follows:20001 $4.72/k/mo20002 $4.63/kw/mo20003 $4.54/kw/mo20004 $4.45/kw/mo20005 $4.36/kw/moAs consideration for the demand charge, EPMI has the right to \"toll\" gas through the facility and receive power in return at a fixed heat rate conversion factor of 12.5 MMBtu/Mwh.   In addition EPMI will pay New Albany $1000 per start (for maintenance reserve fund) and $1.000/Mwh for variable operating costs.The New Albany, LLC will receive an 8% return on capital.   Book value will be depreciated from $409/kW basis on 1/1/20001 to $3336/kW on 12/31/20005.The facility output assumption is 360 MW with a 95% availability in the summer and 75% availability in the winter.Jenny - Please revise the booking of New Albany in Rogers book effective tonight.---"
+    },
+    {
+      "cc": "charles.ward@enron.com, jody.blackburn@enron.com, jim.gilbert@enron.com,david.hoog@enron.com, tony.chang@enron.com\n",
+      "from": "kevin.presto@enron.com",
+      "to": "david.marshall@enron.com",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/Re_Property_Deductible_Buy_down_Option_2.html",
+      "bcc": "charles.ward@enron.com, jody.blackburn@enron.com, jim.gilbert@enron.com,david.hoog@enron.com, tony.chang@enron.com\n",
+      "date": "Fri, 9 Mar 20001 000:000:000 -08000 (PST)",
+      "subject": "Re: Property Deductible Buy-down Option",
+      "forwarded": [],
+      "body": "\nNew Albany will accept proposal assuming my deductible is limited to $1 million per occurence and my BI deductible is limited to 30 days and includes full replacement revenue (less marginal fuel costs) after the 30 day period.\n"
+    },
+    {
+      "cc": "scott.healy@enron.com, christopher.calger@enron.com",
+      "from": "kevin.presto@enron.com",
+      "to": "jeffery.ader@enron.com, ben.jacoby@enron.com, ozzie.pagan@enron.com",
+      "link": "http://www.enron-mail.com/email/presto-k/sent/Scott_Healy_3.html",
+      "bcc": "scott.healy@enron.com, christopher.calger@enron.com",
+      "date": "Thu, 15 Feb 20001 06:37:000 -08000 (PST)",
+      "subject": "Scott Healy",
+      "forwarded": [],
+      "body": "\nThe following is the understanding I have with Chris Calger regarding Scott Healy's involvement in East Power initiatives:Since Auburndale is effectively dead, Scott will no longer be involved on this project.Scott will support the Haywood, Georgia, &amp; Calvert City development site sales through Q1 20001, with East Power getting 1000% of the P&amp;L value and Scott Healy getting personal performance credit.   If Ben elects to continue to use Scott's services beyond Q1 20001, a value sharing agreement between Ben, Calger and myself will have to be agreed upon.Jeff Ader will make a decision (after consultation with me) as to Scott's continued involvement on the fuel cell tax monetization and Dighton restructuring project.   If Jeff makes the decision that Scott needs to remain actively involved in order to close the transaction, a value sharing agreement will be made between Jeff, Calger, and myself.   The value allocation % will be agreed upon upfront within the next week.   If a fair value sharing agreement cannot be reached, Jeff will transition responsibility to another member of his origination team.Chris - Do you agree with the above description? \n"
+    }
+  ],
+  "identity": "presto-k"
+}

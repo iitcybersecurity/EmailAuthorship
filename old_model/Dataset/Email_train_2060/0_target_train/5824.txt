@@ -1,0 +1,4 @@
+2:45 Houston time is fine for me.
+Also, the Trading Limitation language is NOT intended to kick in for intraday 
+limit moves but only at the end of the day (i.e., "closing or settlement 
+price").  We want the language to remain the same.  Hope this works.  Sara

@@ -1,0 +1,3 @@
+I think it's a good idea, but we will need a different summary ... either 
+limit the summary to a couple of key points or provide an explanation, in 
+layman's terms, of the practical effect of each of the changes.

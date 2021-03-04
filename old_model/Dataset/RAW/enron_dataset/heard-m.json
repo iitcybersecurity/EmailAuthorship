@@ -1,0 +1,27 @@
+{
+  "sent": [
+    {
+      "cc": "donna.lowry@enron.com, sara.shackleton@enron.com",
+      "from": "marie.heard@enron.com",
+      "to": "shemeika.landry@enron.com, shelli.smith@enron.com",
+      "link": "http://www.enron-mail.com/email/heard-m/sent/Brokerage_Agreement_Memo_3.html",
+      "bcc": "donna.lowry@enron.com, sara.shackleton@enron.com",
+      "date": "Tue, 29 May 20001 06:54:000 -07000 (PDT)",
+      "subject": "Brokerage Agreement Memo",
+      "forwarded": [],
+      "body": "\nPursuant to Sara Shackleton's request, I am attaching a memo that I prepared in April, 2000 regarding procedures for opening brokerage accounts.Please do not hesitate to contact either Sara at x35620 or me with any questions.Marie HeardSenior Legal SpecialistEnron North America Corp.Phone:   (713) 853-3907Fax:   (713) 646-3490Marie.Heard@Enron.com\n"
+    },
+    {
+      "cc": "",
+      "from": "marie.heard@enron.com",
+      "to": "bianca.ornelas@enron.com",
+      "link": "http://www.enron-mail.com/email/heard-m/sent/Deemed_ISDAs_1.html",
+      "bcc": "",
+      "date": "Thu, 7 Jun 20001 02:06:000 -07000 (PDT)",
+      "subject": "Deemed ISDAs",
+      "forwarded": [],
+      "body": "\nHi, Bianca!Francisco Pinto Leite has asked me to give him a list of all outstanding ISDAs and Deemed ISDAs with Mexican counterparties.   Can you send me a list of the Deemed ISDAs that are still outstanding (either comments received or counterparty has not returned signed copy).Thanks!MarieMarie HeardSenior Legal SpecialistEnron North America Corp.Phone:   (713) 853-3907Fax:   (713) 646-3490Marie.Heard@Enron.com\n"
+    }
+  ],
+  "identity": "heard-m"
+}

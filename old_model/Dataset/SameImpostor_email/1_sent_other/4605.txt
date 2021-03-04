@@ -1,0 +1,13 @@
+Thanks Robert:
+One caution.  It's important that the first-cut analysis be "simple" and 
+uses, to the maximum extent possible, the MOU numbers and modeling.  This 
+allows us to explain a complex situation to people who aren't necessarily 
+"numbers oriented" and to do so with an "apples-to-apples"  comparison.  
+That's not to say that we won't be doing scenarios--we will--but it's 
+important to have, at the outset, the cleanest, simplest version of "here's 
+what core/noncore looks like when we apply your numbers to your model."  That 
+said, I understand that even with the simple base case, some tweeks are 
+likely.   Talk to you in an hour.  Thanks again for the help.
+
+Best,
+Jeff

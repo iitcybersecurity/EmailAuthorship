@@ -1,0 +1,9 @@
+Here are the components as I see them:
+
+1999 numbers for C&I are fine; I'd do 10%, 15%, 20% reductions.
+Assume C&I takes its proportionate share of the DWR's net short (i.e., if C&I 
+is 2/3 of load, then 2/3 of CDW purchases should go to C&I)
+You can use the average price used in the DWR presentation to Legislators to 
+the $ amount.  The copy I've got sez that the average price for the first 5 
+years is $79/MWH.  That seems like the # we ought to use.
+Now the hard part.  The state reportedly sez that they aren't buying the 

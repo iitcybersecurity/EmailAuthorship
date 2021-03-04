@@ -1,0 +1,5 @@
+monday--in office
+tuesday--in office
+wednesday--in office
+thurs--vacation
+fri.--vacation

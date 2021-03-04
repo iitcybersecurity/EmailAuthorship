@@ -1,0 +1,6 @@
+Steve,
+
+Elena Chilkina can give you historical data.
+Historical fwd curves can be obtained from Paulo
+or Alex, among others. Of course, our internal forward curves
+represent a very sensitive information.

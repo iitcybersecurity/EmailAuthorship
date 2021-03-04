@@ -1,0 +1,5 @@
+I think this is a fine attempt, but I continue to believe that a pure 
+relative ranking offers the most flexibility and is more like the way the 
+process works in practice.  A separate list of desired behaviors, criteria 
+etc can be used to guide discussion but I believe the ranking itself should 
+remain purely relative.

@@ -1,0 +1,71 @@
+{
+  "sent": [
+    {
+      "cc": "",
+      "from": "eric.linder@enron.com",
+      "to": "bill.ii@enron.com",
+      "link": "http://www.enron-mail.com/email/linder-e/_sent_mail/NONE_4200.html",
+      "bcc": "",
+      "date": "Thu, 26 Apr 20001 05:19:000 -07000 (PDT)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nSteve from El Paso called.   When you email the actuals for El Paso he would like to recieve them as well.   any questions give him a call.\n"
+    },
+    {
+      "cc": "",
+      "from": "eric.linder@enron.com",
+      "to": "amy.fitzpatrick@enron.com",
+      "link": "http://www.enron-mail.com/email/linder-e/_sent_mail/Paycheck_shift_work_10_differential__2.html",
+      "bcc": "",
+      "date": "Sat, 14 Apr 20001 12:57:000 -07000 (PDT)",
+      "subject": "Paycheck(shift work 10% differential)",
+      "forwarded": [],
+      "body": "\nAmy,You mentioned that it sometimes takes a while for the shiftwork differential to be credited.   Please note that I need to have it credited.   And, can I expect my signing bonus to appear on my May 1st paycheck?Thank you for your help,Eric\n"
+    },
+    {
+      "cc": "",
+      "from": "eric.linder@enron.com",
+      "to": "bill.ii@enron.com",
+      "link": "http://www.enron-mail.com/email/linder-e/_sent_mail/Re_Electric_System_Operation_for_the_Non_engineer__2.html",
+      "bcc": "",
+      "date": "Mon, 9 Apr 20001 111:000:000 -07000 (PDT)",
+      "subject": "Re: Electric System Operation for the Non-engineer course.",
+      "forwarded": [],
+      "body": "\nI'd like to attend the class on April 27th &amp; 28th\n"
+    },
+    {
+      "cc": "",
+      "from": "eric.linder@enron.com",
+      "to": "grace.rodriguez@enron.com",
+      "link": "http://www.enron-mail.com/email/linder-e/_sent_mail/Re_New_Hire_Dinner_invitations__7.html",
+      "bcc": "",
+      "date": "Wed, 18 Apr 20001 21:35:000 -07000 (PDT)",
+      "subject": "Re: New Hire Dinner invitations...",
+      "forwarded": [],
+      "body": "\nGrace, The pan seared filet sounds great.ThanksEric\n"
+    },
+    {
+      "cc": "",
+      "from": "eric.linder@enron.com",
+      "to": "grace.rodriguez@enron.com",
+      "link": "http://www.enron-mail.com/email/linder-e/_sent_mail/Re_New_Hire_Dinner_invitations__8.html",
+      "bcc": "",
+      "date": "Sat, 14 Apr 20001 14:30:000 -07000 (PDT)",
+      "subject": "Re: New Hire Dinner invitations...",
+      "forwarded": [],
+      "body": "\nGrace,I've marked my calander and plan to attend.Thanks,Eric\n"
+    },
+    {
+      "cc": "",
+      "from": "eric.linder@enron.com",
+      "to": "bill.ii@enron.com",
+      "link": "http://www.enron-mail.com/email/linder-e/_sent_mail/WESTPOWER_Login_2.html",
+      "bcc": "",
+      "date": "Thu, 19 Apr 20001 19:48:000 -07000 (PDT)",
+      "subject": "WESTPOWER Login",
+      "forwarded": [],
+      "body": "\nJust a reminder... I'm not able to login to westpower.\n"
+    }
+  ],
+  "identity": "linder-e"
+}

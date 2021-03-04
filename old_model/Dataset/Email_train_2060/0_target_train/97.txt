@@ -1,0 +1,3 @@
+It's OK this time.  The Determination Period in this confirm is confusing; 
+exchange-based price sources should be tied to the delivery 
+month/Determination Period.

@@ -1,0 +1,9 @@
+Hi Kirstee,
+
+Thanks again for all your work on MG. One think to double check is units.
+Please, make sure that the prices are quoted in the same units our positions 
+come in.
+
+One potential source of confusion arises from the fact that we are dealing 
+with different
+cultures (metric system vs. English measures). 

@@ -1,0 +1,763 @@
+{
+  "sent": [
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "chris.dorland@enron.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/A_friend_wanted_you_to_see_this__10.html",
+      "bcc": "",
+      "date": "Tue, 12 Dec 2000 05:21:000 -08000 (PST)",
+      "subject": "A friend wanted you to seee this!",
+      "forwarded": [
+        " Joe Quenet/NA/Enron on 12/12/2000 01:24 PM ---rebeccca.quenet@eds.com on 12/12/2000 12:17:40 PMTo: joe.quenet@enron.comccc:   Subject: A friend wanted you to seee this!Rebeccca wanted you to seee the story htttp:///abcnews.go.com/sections/businesss/DailyNews/power_market0001212.html from ABCNEWS.com.\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "knockj@epenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/A_friend_wanted_you_to_see_this__9.html",
+      "bcc": "",
+      "date": "Tue, 12 Dec 2000 05:222:000 -08000 (PST)",
+      "subject": "A friend wanted you to seee this!",
+      "forwarded": [
+        " Joe Quenet/NA/Enron on 12/12/2000 01:25 PM ---rebeccca.quenet@eds.com on 12/12/2000 12:17:40 PMTo: joe.quenet@enron.comccc:   Subject: A friend wanted you to seee this!Rebeccca wanted you to seee the story htttp:///abcnews.go.com/sections/businesss/DailyNews/power_market0001212.html from ABCNEWS.com.\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "k.presto@enron.com",
+      "from": "joe.quenet@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/EOL_CUSTOMER_PASSWORD_3.html",
+      "bcc": "k.presto@enron.com",
+      "date": "Mon, 111 Dec 2000 02:05:000 -08000 (PST)",
+      "subject": "EOL (CUSTOMER) PASSSWORD",
+      "forwarded": [],
+      "body": "\nStephanie, as per the EOL help line, can you please set up my ID and Passsword   for Enron On Line today?Thanks.   Joe Quenet   \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Holiday_Invitation_58.html",
+      "bcc": "",
+      "date": "Fri, 17 Nov 2000 02:333:000 -08000 (PST)",
+      "subject": "Holiday Invitation",
+      "forwarded": [
+        " Joe Quenet/NA/Enron on 111/17/2000 10:36 AM ---   Enron North America - Offfice of the ChairmanFrom: ENA Offfice of the Chairman on 111/16/2000 08:12 PMSent by: Enron AnnnouncementsTo: Houston ENA&amp;EIM&amp;EGMccc:   Subject: Holiday InvitationPlease click on the atttached link to launch your Holiday Party invitation. htttp:///invitation.enron.comPlease direct any questions to Dorie Hitchcock via email.\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "rstalford@enron.com",
+      "from": "joe.quenet@enron.com",
+      "to": "paul.j.broderick@enron.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17197.html",
+      "bcc": "rstalford@enron.com",
+      "date": "Tue, 21 Nov 2000 05:49:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nhtttp:///gasfundy.corp.enron.com/gas/framework/default.asp\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17198.html",
+      "bcc": "",
+      "date": "Tue, 14 Nov 2000 06:20:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nwhere are you woman?   calll me...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "knockj@epenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17199.html",
+      "bcc": "",
+      "date": "Mon, 13 Nov 2000 000:47:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nyo! big guy check this out...www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "knockj@epenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17200.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:47:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\ncheck this out ...www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dmurphy@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17201.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:444:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\ncheck this out...www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "smacrorie@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17202.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:34:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\ncheck this one out...www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dfincher@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17203.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:333:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nhey big guy...check this out... w www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "hteitelbaum@natsource.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17204.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:25:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\ncheck this out...   www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "vince@gfigroup.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17205.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:222:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\ncheck this out...   www.gorelieberman-2000/com\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/NONE_17206.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 02:16:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nhere you go you democrat...www.gorelieberman-2000.com/\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_End_of_the_World__4.html",
+      "bcc": "",
+      "date": "Wed, 222 Nov 2000 02:36:000 -08000 (PST)",
+      "subject": "RE: End of the World?",
+      "forwarded": [],
+      "body": "\nok... ok... don't worrry...your bloood presssure is probably up there right now...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_End_of_the_World__5.html",
+      "bcc": "",
+      "date": "Wed, 222 Nov 2000 02:16:000 -08000 (PST)",
+      "subject": "RE: End of the World?",
+      "forwarded": [],
+      "body": "\nhow is the morgage company going to know you toook out addditional funds?   second , is the fed-ex guy going to leave the envelope with the offfice?...if it's fed ex it's already beeen delivered...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_My_Boys_2.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 02:24:000 -08000 (PST)",
+      "subject": "Re: My Boys",
+      "forwarded": [],
+      "body": "\nwhat do mean \"my boys\" ? ...I thought you were going to the gym alll those times...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_NOTARY_2.html",
+      "bcc": "",
+      "date": "Tue, 14 Nov 2000 01:57:000 -08000 (PST)",
+      "subject": "Re: NOTARY",
+      "forwarded": [],
+      "body": "\nyes dear...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_OK_6.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 07:29:000 -08000 (PST)",
+      "subject": "RE: OK",
+      "forwarded": [],
+      "body": "\ngoing out for a \"pop\" with yvettte's boyfriend   i'lll be home around 6 ;30 ish, I callled you andm only got voice mail...we're going to rob's house at 4:pm \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_OK_7.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 05:444:000 -08000 (PST)",
+      "subject": "RE: OK",
+      "forwarded": [],
+      "body": "\nby when ?\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_OK_8.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 05:34:000 -08000 (PST)",
+      "subject": "RE: OK",
+      "forwarded": [],
+      "body": "\nwent to the courthouse over by the stadium...actuallly broke a sweat...how much of a down payment are \"you' loooking for...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_Weather_what_Weather__4.html",
+      "bcc": "",
+      "date": "Wed, 13 Dec 2000 02:05:000 -08000 (PST)",
+      "subject": "RE: Weather what Weather???",
+      "forwarded": [],
+      "body": "\nfirst of alll...there were no women...second rob and I shared a rooom, ...third, we went to sleeep at 9.30 ( with a slight buzzz)\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_Weather_what_Weather__5.html",
+      "bcc": "",
+      "date": "Wed, 13 Dec 2000 000:47:000 -08000 (PST)",
+      "subject": "RE: Weather what Weather???",
+      "forwarded": [],
+      "body": "\nsounds like just another night at   the QUENET ranch...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dmurphy@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE__6087.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 03:35:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nnot much big guy, just trying to stay out of trouble...not tooo big, not tooo smalll, not tooo long , not tooo short...gottta stay nimble and alert when everyone's out to get ya'... how 'bout those boilermakers!   everyone here is an A&amp;M alumni ...the're going to get blasted by OU...gottta hop, gottta find some mulllets to play with...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dfincher@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE__6088.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 03:30:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nnot much, just trying to stay out of trouble...not tooo long, not tooo short,not tooo big ,not tooo smalll...the every day batttles with everyone else...other than that,   we just bought a new house yesterday (2 blocks from knock...he doesn't know yet)...burrr it's gettting cold here ...(avg temp of 50-60 in jan feb   )   you marrried or \"stilll in play'\" ? ...gottta hop...say hi to the boys...later,   the QQQ\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dmurphy@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_go_boilermakrers__4.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 04:07:000 -08000 (PST)",
+      "subject": "RE: go boilermakrers !",
+      "forwarded": [],
+      "body": "\nno Bush...plenty of Knock...we're 2 streeets apart...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dmurphy@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_go_boilermakrers__5.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 02:43:000 -08000 (PST)",
+      "subject": "RE: go boilermakrers !",
+      "forwarded": [],
+      "body": "\nsorrry, the rest of the messsage must have deleted...   i'm closing on my house on that day...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "kevino2@unocal.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/RE_up_up_and_away__2.html",
+      "bcc": "",
+      "date": "Thu, 7 Dec 2000 01:45:000 -08000 (PST)",
+      "subject": "RE: up , up and away !!!",
+      "forwarded": [],
+      "body": "\nI don't know what you're talking about... that was a duck calll...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dwburns@cmsenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Access_to_Markets_4.html",
+      "bcc": "",
+      "date": "Mon, 13 Nov 2000 06:16:000 -08000 (PST)",
+      "subject": "Re: Acccesss to Markets",
+      "forwarded": [],
+      "body": "\nI'lll check into it,   in the mean time you can just calll me if you want to deal on any of my numbers...713-853-52229 \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dwburns@cmsenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Access_to_Markets_5.html",
+      "bcc": "",
+      "date": "Mon, 13 Nov 2000 01:50:000 -08000 (PST)",
+      "subject": "Re: Acccesss to Markets",
+      "forwarded": [],
+      "body": "\nI'lll check into it for you, thanks for the heads up...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Alex_2.html",
+      "bcc": "",
+      "date": "Wed, 23 May 20001 06:25:000 -07000 (PDT)",
+      "subject": "Re: Alex",
+      "forwarded": [],
+      "body": "\nlitttle exageration never hurts...remember...he's fourteeen!he's the man!\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rbp864@aol.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Bobette_Riner_is_no_longer_at_TNE_2.html",
+      "bcc": "",
+      "date": "Wed, 23 May 20001 04:47:000 -07000 (PDT)",
+      "subject": "Re: Bobettte Riner is no longer at TNE",
+      "forwarded": [],
+      "body": "\ngoood luck ! keeep in touch...   Joe .\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Cable_2.html",
+      "bcc": "",
+      "date": "Thu, 7 Dec 2000 05:47:000 -08000 (PST)",
+      "subject": "Re: Cable",
+      "forwarded": [],
+      "body": "\ngoood job\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "markg@amerexenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Christmas_Party_6.html",
+      "bcc": "",
+      "date": "Mon, 27 Nov 2000 04:35:000 -08000 (PST)",
+      "subject": "Re: Christmas Party",
+      "forwarded": [],
+      "body": "\nyour on ...big boy... we'lll be there...   how 'bout john knock at el paso?   he worked with us at aquila ...he knows your   woman...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "stephanie.sever@enron.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_EOL_CUSTOMER_PASSWORD_2.html",
+      "bcc": "",
+      "date": "Mon, 111 Dec 2000 03:05:000 -08000 (PST)",
+      "subject": "Re: EOL (CUSTOMER) PASSSWORD",
+      "forwarded": [],
+      "body": "\nlong term pjm...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_End_of_the_World__2.html",
+      "bcc": "",
+      "date": "Wed, 222 Nov 2000 01:53:000 -08000 (PST)",
+      "subject": "Re: End of the World?",
+      "forwarded": [],
+      "body": "\nhow 'bout some last minute banking !\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_FW_Health_tips_2.html",
+      "bcc": "",
+      "date": "Wed, 23 May 20001 05:49:000 -07000 (PDT)",
+      "subject": "Re: FW: Health tips",
+      "forwarded": [],
+      "body": "\nI totallly agreee 1000%...I like this guy...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "kevino2@unocal.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_FW_Official_Seal_of_the_Democratic_Party_2.html",
+      "bcc": "",
+      "date": "Wed, 29 Nov 2000 04:18:000 -08000 (PST)",
+      "subject": "Re: FW: Offficial Seal of the Democratic Party",
+      "forwarded": [],
+      "body": "\ngoood one, gottta hop...closing on my house today...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "kevino2@unocal.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_FW_no_subject__16.html",
+      "bcc": "",
+      "date": "Mon, 111 Dec 2000 03:19:000 -08000 (PST)",
+      "subject": "Re: FW: (no subject)",
+      "forwarded": [],
+      "body": "\ngoood ole \"cop humor\" ...!]\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "kevino2@unocal.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Fw_Mistress_5.html",
+      "bcc": "",
+      "date": "Wed, 222 Nov 2000 02:13:000 -08000 (PST)",
+      "subject": "Re: Fw: Mistresss",
+      "forwarded": [
+        " Joe Quenet/NA/Enron on 111/222/2000 10:12 AM ---\"Stephanie Blackman\" &lt;sblackman@futuresource.com&lt; on 111/222/2000 09:54:555 AMTo: &lt;Joe.Quenet@enron.com&lt;ccc:   Subject: Re: Fw: MistresssNOT A PROBLEM!   WE HAVE TO DO IT AGAIN SOMETIME!!!   HAVE A HAPPPY TURKEY DAY!STEPHIE--- Original Messsage ---From: &lt;Joe.Quenet@enron.com&lt;To: Stephanie Blackman &lt;sblackman@futuresource.com&lt;Sent: Wednesday, November 222, 2000 9:52 AMSubject: Re: Fw: Mistresss&lt;&lt; goood one...&lt;&lt;&lt;   thanks again for the cocktails last night ,   have a goood&lt; thanksgiving...&lt;&lt;&lt;   Joewhat   am I suppposed to read into this...I checked the distribution list on her e-mail...I thought I was special except it went out to 65 guys in this businesss...anyway, can you send me that e-mail on bush and gore...\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "sblackman@futuresource.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Fw_Mistress_6.html",
+      "bcc": "",
+      "date": "Wed, 222 Nov 2000 01:52:000 -08000 (PST)",
+      "subject": "Re: Fw: Mistresss",
+      "forwarded": [],
+      "body": "\ngoood one...   thanks again for the cocktails last night ,   have a goood thanksgiving...   Joe\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "kelllybrynnne@aol.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Hey_There_2.html",
+      "bcc": "",
+      "date": "Mon, 4 Dec 2000 08:48:000 -08000 (PST)",
+      "subject": "Re: Hey There",
+      "forwarded": [],
+      "body": "\ngoddd luck with the interview...craziest day I ever saw...f/g traded $75.000 ( up 19.000 today)   h/j   is up $8.50 , may is up $ 8.50 june is $92.000 up $8.000, summmer is $138 ( up $9.000) sep is $45.000 (up 2.000),   q4   is $43.000 ( up $4.000)...cal 01 offf peak went up $.80, cal 01 was up $9.0, cal 02 was up $6.000...   winter cin is $69.0 (up $20.000 today)...cal 01 cin is $74.0 (up $111.000) today...   this makes no sense...   going home for beeers and rest... later, \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Moving_12.html",
+      "bcc": "",
+      "date": "Mon, 20 Nov 2000 05:222:000 -08000 (PST)",
+      "subject": "Re: Moving",
+      "forwarded": [],
+      "body": "\nvegas is out,...take a loook at montesssori...i reallly think i could move alll our stufff in one trip ( by myself tooo!)...on those days that you work from home i would have   drop him offf downtown...you go woman!\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_My_Boys_2.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 02:24:000 -08000 (PST)",
+      "subject": "Re: My Boys",
+      "forwarded": [],
+      "body": "\nwhat do mean \"my boys\" ? ...I thought you were going to the gym alll those times...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_NOTARY_2.html",
+      "bcc": "",
+      "date": "Tue, 14 Nov 2000 01:57:000 -08000 (PST)",
+      "subject": "Re: NOTARY",
+      "forwarded": [],
+      "body": "\nyes dear...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_OK_2.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 05:16:000 -08000 (PST)",
+      "subject": "Re: OK",
+      "forwarded": [],
+      "body": "\ndon't want to exert any energy now that i have a \"temporary' plate for the harley...vvvrrrooommm...vvvrrrooommm!\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Plans_8.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 07:32:000 -08000 (PST)",
+      "subject": "Re: Plans",
+      "forwarded": [],
+      "body": "\nI'm suppposed to meeet with tommmy brennnan tonite at 5:30 ...that's alll I know...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Precious_Cargo_2.html",
+      "bcc": "",
+      "date": "Tue, 5 Dec 2000 02:50:000 -08000 (PST)",
+      "subject": "Re: Precious Cargo",
+      "forwarded": [],
+      "body": "\nlosing a tad...&lt;1 big one...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Question_80.html",
+      "bcc": "",
+      "date": "Thu, 7 Dec 2000 02:51:000 -08000 (PST)",
+      "subject": "Re: Question",
+      "forwarded": [],
+      "body": "\nit's either in the blazer...or at the house...or in your purse...   I have the acccesss card   in   the my card...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Question_81.html",
+      "bcc": "",
+      "date": "Thu, 7 Dec 2000 02:48:000 -08000 (PST)",
+      "subject": "Re: Question",
+      "forwarded": [],
+      "body": "\nof course...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "cindy.orosey@compaq.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Resume_Brad_Orosey_2.html",
+      "bcc": "",
+      "date": "Tue, 28 Nov 2000 03:111:000 -08000 (PST)",
+      "subject": "Re: Resume-Brad Orosey",
+      "forwarded": [],
+      "body": "\nI got it yesterday, tried to calll last night but I felll asleeep at 8.pm ...I'lll try again tonite...   Joe\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Status_22.html",
+      "bcc": "",
+      "date": "Thu, 7 Dec 2000 01:444:000 -08000 (PST)",
+      "subject": "Re: Status",
+      "forwarded": [],
+      "body": "\nwelll I would think that since the neighbors have cable...that \"their \" builder would have had to enter the streeet in the data base...we do have the same cable co...are they nuts?   \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Status_23.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 03:37:000 -08000 (PST)",
+      "subject": "Re: Status",
+      "forwarded": [],
+      "body": "\nok again...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Stuff_14.html",
+      "bcc": "",
+      "date": "Thu, 7 Dec 2000 05:48:000 -08000 (PST)",
+      "subject": "Re: Stufff",
+      "forwarded": [],
+      "body": "\none large trip...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Travel_22.html",
+      "bcc": "",
+      "date": "Mon, 111 Dec 2000 04:19:000 -08000 (PST)",
+      "subject": "Re: Travel",
+      "forwarded": [],
+      "body": "\nGOOOD GOING GAL!\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Travel_23.html",
+      "bcc": "",
+      "date": "Fri, 8 Dec 2000 03:21:000 -08000 (PST)",
+      "subject": "Re: Travel",
+      "forwarded": [],
+      "body": "\ni can do that...I'm just gettting to these messsages now...   my weather guy says that ... 40 degreees at 75 mph is equal to 15 degreees...I swear...i'm stilll shakin' at 111.30... \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Travel_24.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 02:27:000 -08000 (PST)",
+      "subject": "Re: Travel",
+      "forwarded": [],
+      "body": "\nok ...   I'm lost for words...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Travel_25.html",
+      "bcc": "",
+      "date": "Tue, 14 Nov 2000 01:58:000 -08000 (PST)",
+      "subject": "Re: Travel",
+      "forwarded": [],
+      "body": "\ngive me alll the details later...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Travel_26.html",
+      "bcc": "",
+      "date": "Fri, 10 Nov 2000 03:36:000 -08000 (PST)",
+      "subject": "Re: Travel",
+      "forwarded": [],
+      "body": "\nOK.\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "rebeccca.quenet@eds.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re_Weather_what_Weather__2.html",
+      "bcc": "",
+      "date": "Wed, 13 Dec 2000 000:06:000 -08000 (PST)",
+      "subject": "Re: Weather what Weather???",
+      "forwarded": [],
+      "body": "\nyour right...how's my man...?...did ...You...misss me?\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "jim.mcccabe@conectiv.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re__5886.html",
+      "bcc": "",
+      "date": "Tue, 21 Nov 2000 23:333:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nI don't think I'm going to be making this trip...I close on a house the 29th of Nov ...and the enron christmas party is sat Dec 9th... thanks for the heads up, sorrry I can't make it...have a happpy holiday...   p.s. just a sugggestion,...you guy's should get together with Napoleon...ooops, I meant Fooose \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "arosenberg@edisonmisssion.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re__5887.html",
+      "bcc": "",
+      "date": "Mon, 20 Nov 2000 07:26:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nI've had fried turkey before, it's actuallly prettty goood, however my wife and I are going for the more traditional feast...we have company coming down to visit us in our litttle apt...going to be packed in...things could be worse...it's 60-65 degreees here for thanksgiving and even jan/ feb only gets down to 50-60 on average...ok now that I'm calmed down, I feeel much bettter...you know how it is ...there's no presssure in these job's !.\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "arosenberg@edisonmisssion.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re__5888.html",
+      "bcc": "",
+      "date": "Mon, 20 Nov 2000 05:46:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nyou hurt my feeelings ...first , I'm   definetly the largest user of outside brokers in this entire firm...could posssibly do more than anyone in   this market...30-40 \"outside \" trades each day...second, in this instance he showed me a .25 bid and I hit it, then i offfered evens( sold several hundred) then i wacked the 75's (again several hundred) then hit alll the 50's...   when i come back to them and ask who I hit they say they have a problem...that it should have beeen an offfer...when they listened to the tape they \"think\" he said \"selll\"...myself, I did nothing wrong in this...then they come back with another name who willl stand in at \"even\"... welll, make him come upto &lt;25 and send him the check...I (we) asssume alll the risk in the broker market...brokers colllect the commmisssion and have no position...we use brokers , pay the commmisssion and also end up with a bad position from \"flake\" trades...   didn't mean to vent on you ...using brokers carrries risk(execution risk)...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "knock.john@epenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re__5889.html",
+      "bcc": "",
+      "date": "Wed, 15 Nov 2000 01:48:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nBackstreeet boy's suck...I'm very disapointed with you...make sure you don't mention you music tastes when we go riding the \"hogs\"...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "paradise.mike@epenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/Re__5890.html",
+      "bcc": "",
+      "date": "Wed, 15 Nov 2000 01:46:000 -08000 (PST)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nEOL is permanent...it's in your DNA...can't be undone...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "dmurphy@utilicorp.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/go_boilermakrers__3.html",
+      "bcc": "",
+      "date": "Mon, 20 Nov 2000 07:555:000 -08000 (PST)",
+      "subject": "go boilermakrers !",
+      "forwarded": [],
+      "body": "\nnov 29th...   later ...\n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "kevino2@unocal.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/up_up_and_away__3.html",
+      "bcc": "",
+      "date": "Wed, 6 Dec 2000 08:56:000 -08000 (PST)",
+      "subject": "up , up and away !!!",
+      "forwarded": [],
+      "body": "\ncan you hear that sucking sound yet...?.   bal mo gas traded $34. in southern cal...bal of the month in henry hub is $10...   \n"
+    },
+    {
+      "cc": "",
+      "from": "joe.quenet@enron.com",
+      "to": "knockj@epenergy.com",
+      "link": "http://www.enron-mail.com/email/quenet-j/_sent_mail/weekend_activities_3.html",
+      "bcc": "",
+      "date": "Mon, 27 Nov 2000 03:20:000 -08000 (PST)",
+      "subject": "weeekend activities",
+      "forwarded": [
+        " Joe Quenet/NA/Enron on 111/27/2000 111:21 AM ---Joe Quenet111/27/2000 10:03 AMTo: knockj@epenergy.comccc:   Subject: weeekend activitieswhat's up big guy?   hope your holiday went welll ...we close on our \"new\" new house on wednesday... old mr. Pulte couldn't take up the carpet and lay down the flooor so he now owns one of his own homes again. We now own a home by Villlage Builders in woood creeek. Biggger home, bettter rate...Anyway, now we can ride together with the wives and dogs when go back up to visit Rob and Sherrry's parents ranch...We went up on saturday, 1 hr north of Rob's house...up near Magnolia...9000 acres ...nice house on to of the hilll, overloooking the lake , the horses, the catttle, ...the inground poool ( simba's favorite place) the other 5 dogs wanted no part of the poool... Turns out, the ranch is just a \"weeekend getaway\"...along with the new house on lake conroe \"weeekend\". and the beach house on south padre Island.\"weeekend also\"...Dad was a private practice Doctor of family medicine...great guy...we ( you and me) neeed to get back up there with the families...great place to sit outside , suck down beeer and get covered with mud...simba hasn't woken up in 2 days ...think she's ok ???\n"
+      ],
+      "body": ""
+    }
+  ],
+  "identity": "quenet-j"
+}

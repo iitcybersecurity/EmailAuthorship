@@ -1,0 +1,4 @@
+Per Terry's comments, we have the "blocks" in the system to prevent
+any shipper from going to 16A back into the "Bushton Universe".  As long
+as that block is in place, we are OK with Duke using 16A for pooling purposes.
+Hopefully this answers your question.  If not let me know.  Thanks. Lynn

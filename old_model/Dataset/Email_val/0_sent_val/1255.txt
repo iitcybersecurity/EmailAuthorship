@@ -1,0 +1,2 @@
+Mark:  Nice to meet you too!  When Credit sends us the creditworksheet, we 
+can generate an ISDA master to send to the counterparty.  Sara

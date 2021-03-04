@@ -1,0 +1,6 @@
+Sure makes sense.  One concern.  If they buy up to 80% of load, do we run the 
+risk of "stranded cost" problem later down the road when we hit the 
+backwardated part of the curve.  Hinges on the term of the contract.  Sort of 
+chicken and egg problem.  If the buy for short terms, the prices will be 
+high, if they buy for longer terms, the prices will be lower, but the risk of 
+stranded cost rises.  Thoughts?

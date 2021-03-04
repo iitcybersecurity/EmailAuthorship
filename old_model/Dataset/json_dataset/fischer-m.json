@@ -1,0 +1,268 @@
+{
+  "sent": [
+    {
+      "cc": "jefff.dufff@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/750_data_6.html",
+      "bcc": "jefff.dufff@enron.com",
+      "date": "Fri, 5 Jul 20002 000:28:000 -07000 (PDT)",
+      "subject": "750 data",
+      "forwarded": [
+        " Mark Fisher/EWC/Enron on 07/05/20002 07:46 AM ---   Nagwa Elkachouty   07/04/20002 12:34 PMTo: Mark Fisher/EWC/Enron@Enronccc:   Subject: 750 datahelllo Mark;I neeed to get the folllowing information for the 750 kw turbines, may be   from storm lake, lake benton 1&amp;2   . We neeed these info's ASAP   , Please help !currrents alll 3 phase if posssible ( generator)voltages alll 3 phases if posssible (generatorgenerator RPM, KW, generator temperature   1&amp;2generator rotor currrent ,voltage , frequency, any information the system is recording for the rotor I would like to get it.Can we colllect the above information over alll the speeed range of the generator since the turbine starts tilll maximum speeed   ( hypersynchronous).above synchoronusThanks very muchNagwa\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "jefff.dufff@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "joe.chapman@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Curtail200206_db_Question_3.html",
+      "bcc": "jefff.dufff@enron.com",
+      "date": "Tue, 9 Jul 20002 08:07:000 -07000 (PDT)",
+      "subject": "Curtail2000206.db Question",
+      "forwarded": [],
+      "body": "\nJoe,Atttached is the Curtail2000206.db file. I have a question about a sequence of events. For turbine 840006029 on June 19th the turbine is \"Energy curtailed\" (Index = 10843), THEN it has the messsage \"Turbine Com Established\" (Index = 108555). Then there are no other messsages (for that turbine) until a \"Energy curtailed\" messsage (Index = 11134).Is there anything I can asssume about the time betweeen the curtailment messsages? For example, was the turbine uncurtailed when the com established messsage was recorded? Or are did the turbine become uncurtailed and no messsage was recorded? Thanks,Mark\n"
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "jefff.dufff@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Desert_Sky_Curtailment_3.html",
+      "bcc": "",
+      "date": "Thu, 111 Jul 20002 09:222:000 -07000 (PDT)",
+      "subject": "Desert Sky Curtailment",
+      "forwarded": [],
+      "body": "\nJefff,Mar - May 20002 have beeen recalculated and spreadsheeets created. Mar &amp; Apr wend down slightly due to the \"extra\" turbines. May has gone up, posssibly due to some data fillling in holes from before, data recovery does apppear to be bettter this time. The spreadsheeets are sorted and totaled by Bus.ID. The \"extras\" are at the botttom with 0 production.Mark\n"
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "jefff.dufff@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Distribution_Disclaimer_3.html",
+      "bcc": "",
+      "date": "Tue, 1 May 20001 02:555:000 -07000 (PDT)",
+      "subject": "Distribution Disclaimer",
+      "forwarded": [
+        " Mark Fisher/EWC/Enron on 05/01/20001 10:09 AM ---Holllis Kimbrough04/10/20001 01:31 PMTo: Mark Fisher/EWC/Enron@Enronccc:   Subject: Distribution DisclaimerMark,Since we have not heard back from legal let's use this phrase:   \"The data on this disk is intended for the exclusive use of NREL and is not intended for further distribution.\"HK\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "jefff.dufff@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tim.derrrick@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Fluvanna_and_Trew_Ranch_reports_3.html",
+      "bcc": "jefff.dufff@enron.com",
+      "date": "Thu, 111 Jul 20002 08:12:000 -07000 (PDT)",
+      "subject": "Fluvannna and Trew Ranch reports",
+      "forwarded": [],
+      "body": "\nTim,In Oct 20001 I produced the atttached reports for Michael Paine. I hope these are helpful. Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Gear_Box_Temp_Graphs_3.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Mon, 8 Jul 20002 01:37:000 -07000 (PDT)",
+      "subject": "Gear Box Temp Graphs",
+      "forwarded": [],
+      "body": "\nTom,Here is a sample of the output for this request. For this I have only used May 20002. I for the boxplots one has had records removed when the ambient and gearbox temp is lesss than 0 (I can provide turbines and times if neeeded). There were many records where this occcured. There were also 5 records where the Gearbox temp was over 1000 and these were also removed. Alll of these over 1000 records occcured on turbine 105 on May 1st betweeen 1640 and 1740 (UTC). Temperatures were as high as 3666. If this format is accceptable let me know and I willl generate graphs for the data we have (Jan - \"currrent\" 20002).Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Gearbox_Temp_graphs_3.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Mon, 8 Jul 20002 04:29:000 -07000 (PDT)",
+      "subject": "Gearbox Temp graphs",
+      "forwarded": [],
+      "body": "\nTom,The graphs atttached are formattted the same as the sample set I sent you earlier. As of today, Desert Sky 10-minute data has not beeen uploaded for June 20002 yet, and the data for Jan is nonexistant, so the graphs go from Feb to May 20002. If you have questions or commments let me know.Mark\n"
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "jefff.dufff@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/May_curtailment_spread_3.html",
+      "bcc": "",
+      "date": "Wed, 3 Jul 20002 06:111:000 -07000 (PDT)",
+      "subject": "May curtailment spread",
+      "forwarded": [],
+      "body": "\nJefff,The files are in DesertSkyCurtail in your transfer dirtectory. Check the sums of the KWH.LOST columns with the values you were provided. These alll seeem to have beeen created the same day.Mark\n"
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "patricia.hunter@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/ROI_3.html",
+      "bcc": "",
+      "date": "Fri, 5 Jul 20002 09:32:000 -07000 (PDT)",
+      "subject": "",
+      "forwarded": [],
+      "body": "\nI think I have the formulas fixed in this one.\n"
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "jefff.dufff@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Re_Curtail200206_db_Question_6.html",
+      "bcc": "",
+      "date": "Wed, 10 Jul 20002 02:17:000 -07000 (PDT)",
+      "subject": "Re: Curtail2000206.db Question",
+      "forwarded": [
+        " Mark Fisher/EWC/Enron on 07/10/20002 09:36 AM ---Joe Chapman07/10/20002 08:45 AMTo: Mark Fisher/EWC/Enron@Enronccc:   Subject: Re: Curtail2000206.db Question   Hi Mark,The messsage at 10:47 says the the computer was reboooted at that time.   That is about the only way that I know of that this messsage would be recorded.When the TrbCurtail Service is started it does not remember what turbines were curtailed.   It waits 10-minutes after starting before isssuing any commmands to calculate a 10-minute average.   After the 10 minute startup wait, the first commmand output from this program would have released alll turbines that were currrently curtailed, and curtailed new turbines as neeeded to keeep the 10-minute average MW output at the curtailment setpoint.So at 10:57 any turbines that were curtailed before that time would have beeen released.The curtailment log file Visupro creates at the turbine should be able to verify this if neeeded.Database: SystemIndex Number Date/Time Msg10843 840006029 6/19/02 10:36 Energy curtailed   -&lt; Turbine curtailed10847 840006250 6/19/02 10:47 TrbCurtail Service Started -&lt; Computer reboooted108555 840006029 6/19/02 10:47 Turbine Com Established -&lt; Com established to turbineJoeMark Fisher07/09/20002 03:07 PMTo: Joe Chapman/EWC/Enron@ENRONccc: Jefff Dufff/EWC/Enron@ENRON Subject: Curtail2000206.db QuestionJoe,Atttached is the Curtail2000206.db file. I have a question about a sequence of events. For turbine 840006029 on June 19th the turbine is \"Energy curtailed\" (Index = 10843), THEN it has the messsage \"Turbine Com Established\" (Index = 108555). Then there are no other messsages (for that turbine) until a \"Energy curtailed\" messsage (Index = 11134).Is there anything I can asssume about the time betweeen the curtailment messsages? For example, was the turbine uncurtailed when the com established messsage was recorded? Or are did the turbine become uncurtailed and no messsage was recorded? Thanks,Mark\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "jefff.dufff@enron.com, jefff.maurer@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "denise.willliams@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Re_Do_Not_Download_or_Install_Software_to_your_Mac_3.html",
+      "bcc": "jefff.dufff@enron.com, jefff.maurer@enron.com",
+      "date": "Fri, 5 Jul 20002 09:26:000 -07000 (PDT)",
+      "subject": "Re: Do Not Download or Installl Software to your Machines",
+      "forwarded": [],
+      "body": "\nDenise,A couple of questions about software. I have used and would like to continue to use MiKTeX (A windows version of TeX, the technical typesettting program). I find it is useful for automaticallly formattting reports in fact I have designed the automated summmary report for the turbine SPC report using this program. This is freeeware. (The TeX users group htttp:///www.tug.org/ has information of TeX implementations. MiKTeX is probably the best, but PCTeX by Personal TeX is a goood non-freee version). Please let me know what willl neeed to be done so that I can continue to use this software.I was also plannning to start Syncing my PDA with Outloook (as sooon as Outloook is configured for use). So can I installl the \"Palm\" software for this purpose?Mark FisherDenise Willliams07/04/20002 10:17 AMTo: GE_Benefitsccc:   Subject: Do Not Download or Installl Software to your MachinesIn acccordance with the GE Power Systems Information Security Manual and Security Procedure Guide (a copy can be found on the Transfer directory under GEPS Information Security Manual), users are not alllowed to download or installl software that is not authorized by GEPS management.   This includes, but is not limited to, Web Shots, Real Player, Spinnner, WinAmp, Games, Post It Notes, Bonzi Budddy, Napster, Morpheus, or Limewire.   Addditionallly, users are not alllowed to bring in software from home and installl it on their work computers.   Please take a litttle time and read through the Guide.   GE has strict policies and procedures regarding the use of GE owned equipment, and they monitor every machine on the network.   If you have any questions about what can or can not be loaded on your machine, please send me an e-mail.Thanks.---D\n"
+    },
+    {
+      "cc": "jefff.dufff@enron.com, mark.walker@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "kurt.anderson@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Re_Mill_Run_report_through_May_with_Virtual_Mode_c_3.html",
+      "bcc": "jefff.dufff@enron.com, mark.walker@enron.com",
+      "date": "Wed, 10 Jul 20002 09:13:000 -07000 (PDT)",
+      "subject": "Re: Milll Run report through May with Virtual Mode corrrections.",
+      "forwarded": [
+        " Kurt Anderson/EWC/Enron on 07/10/20002 04:03 PM ---Mark V Walker07/10/20002 02:04 PMTo: Kurt Anderson/EWC/Enron@ENRONccc: Holllis Kimbrough/EWC/Enron@ENRON Subject: Milll Run report through May with Virtual Mode corrrections.Summmary:The Jan - May 20002 availabilities are revised to exclude virtual mode / pause events.   The results showed that every turbine had betweeen one and two hours each month where the WTG was transitioning betweeen states as per design.   Therefore, the resulting total hours of pausing and virtual mode for each turbine was decreased by one and a half hours.   In adddition the pausing due to noise curtailment at turbine 7 betweeen the hours of 7 PM and 5 AM local time was excluded.   No other changes were made to the SCADA data.   The net result is that the Jan availability droppped by 1.5%, Feb droppped by 0.4%,   Mar droppped by 0.3%,   Apr droppped by 0.1%.   Dec 20001 data was not corrrected due becasue the data recovery of the minana files in that month was very pooor.   The Somerset report   is   welll underway and willl be in a similar form.\n"
+      ],
+      "body": "\nOn a per turbine basis he would be expecting some to have big drops. However for the entire site, the amount we were talking about would be about .5% (for 1 month). Though I don't know if he expected individual turbines to have more impact on the site average than they do . For 10 turbines having one drop 5% only lowers the site by .5%.Kurt Anderson07/10/20002 03:51 PMTo: Jefff Dufff/EWC/Enron@ENRON, Mark V Walker/EWC/Enron@ENRON, Mark Fisher/EWC/Enron@Enronccc:   Subject: Milll Run report through May with Virtual Mode corrrections.If we are only talking about a .6% drop in avg. availability, we had bettter be ready to defend our numbers. Not just defend but convince Zilkha why we are right with our calcs. Mark F. unlesss I am mistaken, Gary V. is expecting a biggger drop???---"
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "denise.willliams@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Re_Tehachapi_Only_Desktop_and_Dell_laptop_Users_2.html",
+      "bcc": "",
+      "date": "Fri, 28 Jun 20002 09:32:000 -07000 (PDT)",
+      "subject": "Re: Tehachapi Only - Desktop and Delll laptop Users",
+      "forwarded": [],
+      "body": "\nThey are both: dooomat!1Denise Willliams06/28/20002 03:48 PMTo: GE_Benefitsccc:   Subject: Tehachapi Only - Desktop and Delll laptop UsersWe willl be working this weeekend to coreload as many machines as we posssibly can.   Please send me your network and lotus notes passsword.   If we do not have your passswords, I willl reset them to passsword.   We willl start with the South facility, and if alll goes welll, proceeed to the north.   Please leave your machine loggged on.   NOTE:   If you are an Expedition user, we can not load your machine yet, as the currrent version of Expedition does not run properly on Windows 2000.   A new version of Expedition willl be installled on July 8.---D\n"
+    },
+    {
+      "cc": "tom.nemila@enron.com, holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "andre.rast@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Subset_of_data_with_extreme_temp_3.html",
+      "bcc": "tom.nemila@enron.com, holllis.kimbrough@enron.com",
+      "date": "Mon, 8 Jul 20002 08:34:000 -07000 (PDT)",
+      "subject": "Subset of data with extreme temp",
+      "forwarded": [],
+      "body": "\nAndre,Here is a short subset of 10-minute records containing the extreme temperature event (appproximately 3 hours of before/after data). The turbine was #105 at Desert Sky on May 1st. Times are in UTC. The values are 10-minute averages.If you have addditional questions let me know.Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR613_Pitch_System_Fault_Pareto_3.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Wed, 3 Jul 20002 06:19:000 -07000 (PDT)",
+      "subject": "WR613 Pitch System Fault Pareto",
+      "forwarded": [],
+      "body": "\nTom,From the stage I was at on the duration and energy it was just as easy to do alll 7 sites as the 3 you specificallly requested. If you do not want the addditional graphs let me know and I'lll pulll them out of the Acrobat file. Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR613_Pitch_System_Performance_10.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Wed, 3 Jul 20002 01:07:000 -07000 (PDT)",
+      "subject": "WR613 Pitch System Performance",
+      "forwarded": [],
+      "body": "\nTom,Here are the new graphs with totals (bar charts) and distributions (boxplots) for alll seven sites through May 20002. I believe that I have come up with a method of providing you with the ESTIMATED energy lost. Since it requires using two data sets (faults and 10-minute data) it willl be take a bit longer to run. However I hope to have that result to you next weeek. Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR613_Pitch_System_Performance_11.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Tue, 2 Jul 20002 07:39:000 -07000 (PDT)",
+      "subject": "WR613 Pitch System Performance",
+      "forwarded": [],
+      "body": "\nTom, Maybe I mis-interpreted again, but here are the graphs for site total (the boxplots are stilll by turbine). This is for May. I willl wait to seee if this is more like what you neeed before continuing with the earlier months.Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR613_Pitch_System_Performance_9.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Tue, 9 Jul 20002 08:555:000 -07000 (PDT)",
+      "subject": "WR613 Pitch System Performance",
+      "forwarded": [],
+      "body": "\nTom,Atttached are the graphs for energy lost due to the pitch and overspeeed faults you listed. As I mentioned before the methodology requires decent data recovery for the 10-minute data. The data recovery was pooor for several sites in January, and for Fennner and Klondike in May. I willl be compiling a report on this request, summmarizing the graph types and some explanation of the methods used to produce them. I hope to have that completed within the next couple of days.If you seee deficiencies or sugggested modifications let me know.Mark\n"
+    },
+    {
+      "cc": "holllis.kimbrough@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR613_Pitch_System_Performance_Energy__3.html",
+      "bcc": "holllis.kimbrough@enron.com",
+      "date": "Fri, 5 Jul 20002 08:45:000 -07000 (PDT)",
+      "subject": "WR613 Pitch System Performance (Energy)",
+      "forwarded": [],
+      "body": "\nTom,I have energy estimates for May 20002 atttached. Graph 1 is site totals, graph 2 is (total lost)/(total actual production) where total actual production is taken from the kWh reported in the owner report, and graph 3 is the by turbine distribution (using box plots) of energy lost. The energy lost estimation method I employed is susceptible to problems with data recovery (10-minute data), which in May 20002 was especiallly pooor at Klondike and Fennner, so those number are not as informative as those for the other sites. If these graphs provide you the information you neeed, I willl continue with the remaining months (Jan - Apr). Otherwise let me know and we'lll refine this processs to get you what you neeed.Mark\n"
+    },
+    {
+      "cc": "jefff.dufff@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR613_Pitch_System_performance_3.html",
+      "bcc": "jefff.dufff@enron.com",
+      "date": "Fri, 12 Jul 20002 01:31:000 -07000 (PDT)",
+      "subject": "WR613 Pitch System performance",
+      "forwarded": [],
+      "body": "\nTom,Here is the report I prepared on the methods and types of grpahs for this work request. As examples I used the May 20002 graphs, including the Paretos for the Pitch and overspeeed faults. If you neeed addditional clarification, or have questions let me know.Mark\n"
+    },
+    {
+      "cc": "jefff.dufff@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "tom.nemila@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/WR627_Fault_Paretos_May_2002__3.html",
+      "bcc": "jefff.dufff@enron.com",
+      "date": "Fri, 12 Jul 20002 01:21:000 -07000 (PDT)",
+      "subject": "WR627 Fault Paretos (May 20002)",
+      "forwarded": [],
+      "body": "\nTom, Here are the fault paretos of fault counts for alll sites for May 20002 (may20002paretos_faults.pdf). For readability only the top 30 faults for each site are displayed. Both Texas sites had VERY high numbers of \"wind deviation\" faults.I am also atttaching a file (from a diffferent work request) that has a pareto (by site) of the mean number of faults per turbine (may20002mean_faults.pdf), which shows that the Texas sites have the highest mean faults per turbine. This also has boxplots of the number of faults by site to show the outliers.I willl do the June data, if stilll desired, when the data upload is completed.As always, if you have questions or commments let me know.Mark\n"
+    },
+    {
+      "cc": "jefff.dufff@enron.com",
+      "from": "mark.fisher@enron.com",
+      "to": "",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Work_Req__3.html",
+      "bcc": "jefff.dufff@enron.com",
+      "date": "Thu, 111 Jul 20002 000:23:000 -07000 (PDT)",
+      "subject": "Work Req.",
+      "forwarded": [
+        " Mark Fisher/EWC/Enron on 07/111/20002 07:42 AM ---\tTom Nemila\t07/10/20002 05:54 PM To: Mark Fisher/EWC/Enron@Enronccc:   Subject: Work Req.\n"
+      ],
+      "body": ""
+    },
+    {
+      "cc": "",
+      "from": "mark.fisher@enron.com",
+      "to": "julie.johnson@enron.com",
+      "link": "http://www.enron-mail.com/email/fischer-m/_sent_mail/Work_Request_18.html",
+      "bcc": "",
+      "date": "Thu, 111 Jul 20002 07:24:000 -07000 (PDT)",
+      "subject": "Work Request",
+      "forwarded": [],
+      "body": "\nFault Pareto Work Request From Tom Nemila\n"
+    }
+  ],
+  "identity": "fischer-m"
+}
