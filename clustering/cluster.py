@@ -10,7 +10,7 @@ from sklearn import metrics
 from preprocess.preprocess_text import *
 from preprocess.utils_dataset import *
 import sys
-import json
+import json, os, math
 
 import matplotlib.pyplot as plt
 from sklearn.manifold import TSNE
@@ -18,22 +18,45 @@ from sklearn.manifold import TSNE
 # train data
 
 target_user = "shackleton-s"
+non_target = "dasovich-j"
+
 base_dir = "preprocess/RAW/enron_dataset/"
-  
+log_dir =  "preprocess/email_csv/"
+
+t_dataset = []
+'''
+with open("preprocess/USERS.txt", "r") as users:
+    for u in users:
+        target_user = u.replace('\n', '')
+        t_dataset += read_data(base_dir, target_user)
+'''
+
 t_dataset = read_data(base_dir, target_user)
-t_len = len([elem for elem in t_dataset])
+nt_dataset = read_data(base_dir, non_target)
+user = [0 for i in range(50)]
+user1 = [1 for i in range(50)]
+
+user += user1
+
 
 #clean dataset
 
 t_list = []
+nt_list = []
 for email in t_dataset:
-    new = preprocess(email)
+    new = preprocess(email) #text_to_word_list(email) #
     if(new):
         t_list.append(new)
 
+for email in nt_dataset:
+    new = preprocess(email) #text_to_word_list(email) #
+    if(new):
+        nt_list.append(new)
+
 #word2vec
 
-sentences = t_list
+sentences = t_list[:50] + nt_list[:50]
+
  
 model = Word2Vec(sentences, min_count=1)
   
@@ -66,18 +89,18 @@ print ("========================")
 #print (model.most_similar(positive=['hallo'], negative=[], topn=2))
 
 
-NUM_CLUSTERS=5
-kclusterer = KMeansClusterer(NUM_CLUSTERS, distance=nltk.cluster.util.cosine_distance, repeats=25)
+NUM_CLUSTERS=10
+kclusterer = KMeansClusterer(NUM_CLUSTERS, distance=nltk.cluster.util.cosine_distance, repeats=25, avoid_empty_clusters=True)
 assigned_clusters = kclusterer.cluster(X, assign_clusters=True)
 
-print(str(assigned_clusters))
+#print(str(assigned_clusters))
   
-
+'''
 for index, sentence in enumerate(sentences):    
     print(str(assigned_clusters[index]) + ":" + str(sentence))
     if(index == 50):
         break
- 
+'''
 
 kmeans = cluster.KMeans(n_clusters=NUM_CLUSTERS)
 kmeans.fit(X)
@@ -107,11 +130,44 @@ Y=model.fit_transform(X)
  
  
 plt.scatter(Y[:, 0], Y[:, 1], c=assigned_clusters, s=290,alpha=.5)
- 
- 
-for j in range(len(sentences)):    
-   plt.annotate(assigned_clusters[j],xy=(Y[j][0], Y[j][1]),xytext=(0,0),textcoords='offset points')
-   print ("%s %s" % (assigned_clusters[j],  t_dataset[j])) #sentences[j]
- 
- 
-plt.show()
+
+split = int(len(sentences)/6)
+print("split", split) 
+cluster_csv = os.path.join(log_dir, '{}.csv'.format(target_user)) 
+with open(cluster_csv, 'w') as f:
+    f.write("Sent1,Sent2,Same\n")
+    for j in range(len(sentences)):
+        plt.annotate(assigned_clusters[j],xy=(Y[j][0], Y[j][1]),xytext=(0,0),textcoords='offset points')
+        same0 = []
+        same1 = []
+        is_same = 1
+        
+        if(j < 2*split):
+            #same = 1
+            if(j in range(0, split)):
+                sent0 = ' '.join(sentences[j])
+                sent1 = ' '.join(sentences[j+split])
+
+            #same = 0
+            if(j in range(split, 2*split)):
+                sent0 = ' '.join(sentences[j+split])
+                sent1 = ' '.join(sentences[j+split*2])
+                is_same = 0
+
+            f.write("{},{},{}\n".format(sent0, sent1, is_same))
+        
+
+'''    
+    f.write("User\tCluster\tSentence\n")
+    for j in range(len(sentences)):    
+        plt.annotate(assigned_clusters[j],xy=(Y[j][0], Y[j][1]),xytext=(0,0),textcoords='offset points')
+        #file csv | Topic | Sentence |
+        sent = ' '.join(sentences[j])
+        f.write("{}\t{}\t{}\n".format(user[j], assigned_clusters[j], sent)) #print ("%s %s" % (assigned_clusters[j],  t_dataset[j])) #sentences[j] 
+'''
+
+plt.savefig('plt.png') 
+#plt.show()
+
+#csv file | sentence1 | sentence2 | is_equal |
+
