@@ -118,7 +118,7 @@ assert len(X_train['left']) == len(Y_train)
 # Model variables
 n_hidden = 50
 gradient_clipping_norm = 1.25
-batch_size = 2
+batch_size = 64
 n_epoch = 10
 
 def exponent_neg_manhattan_distance(left, right):
@@ -150,7 +150,9 @@ malstm = Model([left_input, right_input], [malstm_distance])
 # Adadelta optimizer, with gradient clipping by norm
 optimizer = Adadelta(clipnorm=gradient_clipping_norm)
 
-malstm.compile(loss='mean_squared_error', optimizer=optimizer, metrics=['accuracy'])
+malstm.compile(loss='mean_squared_error', 
+                #optimizer=optimizer, 
+                metrics=['accuracy'])
 
 # Start training
 training_start_time = time()

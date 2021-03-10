@@ -24,6 +24,7 @@ base_dir = "preprocess/RAW/enron_dataset/"
 log_dir =  "preprocess/email_csv/"
 
 t_dataset = []
+
 '''
 with open("preprocess/USERS.txt", "r") as users:
     for u in users:
@@ -33,11 +34,16 @@ with open("preprocess/USERS.txt", "r") as users:
 
 t_dataset = read_data(base_dir, target_user)
 nt_dataset = read_data(base_dir, non_target)
-user = [0 for i in range(50)]
-user1 = [1 for i in range(50)]
+
+num_samples = min(len(t_dataset), len(nt_dataset))
+
+user = [0 for i in range(num_samples)]
+user1 = [1 for i in range(num_samples)]
+
+print(target_user, len(user))
+print(non_target, len(user1))
 
 user += user1
-
 
 #clean dataset
 
@@ -55,7 +61,7 @@ for email in nt_dataset:
 
 #word2vec
 
-sentences = t_list[:50] + nt_list[:50]
+sentences = t_list[:num_samples] + nt_list[:num_samples]
 
  
 model = Word2Vec(sentences, min_count=1)
