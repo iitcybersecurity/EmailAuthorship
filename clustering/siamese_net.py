@@ -23,12 +23,15 @@ from preprocess.preprocess_text import *
 from preprocess.utils_dataset import *
 
 import nltk
+import tensorflow as tf
 
 # File paths
-TRAIN_CSV = 'preprocess/email_csv/shackleton-s.csv'  #| email_1 | email_2 | is_same()
-TEST_CSV =  'preprocess/email_csv/shackleton-s.csv'
+usr = "shackleton-s"
+TRAIN_CSV = 'preprocess/email_csv/train_{}.csv'.format(usr)  #| email_1 | email_2 | same()
+TEST_CSV =  'preprocess/email_csv/test_{}.csv'.format(usr)
 EMBEDDING_FILE = 'preprocess/GoogleNews-vectors-negative300.bin.gz'
-MODEL_SAVING_DIR = '/model/'
+MODEL_SAVING_DIR = 'model/'
+LOG = 'model/{}/log/'.format(usr)
 
 # Load training and test set
 train_df = pd.read_csv(TRAIN_CSV)
@@ -87,7 +90,7 @@ max_seq_length = max(train_df.Sent1.map(lambda x: len(x)).max(),
                      test_df.Sent2.map(lambda x: len(x)).max())
 
 # Split to train validation
-validation_size = int(0.2*len(train_df)) #40000
+validation_size = int(0.1*len(train_df)) #40000
 training_size = len(train_df) - validation_size
 
 X = train_df[questions_cols]
@@ -119,7 +122,7 @@ assert len(X_train['left']) == len(Y_train)
 n_hidden = 50
 gradient_clipping_norm = 1.25
 batch_size = 64
-n_epoch = 10
+n_epoch = 5
 
 def exponent_neg_manhattan_distance(left, right):
     ''' Helper function for the similarity estimate of the LSTMs outputs'''
@@ -153,14 +156,23 @@ optimizer = Adadelta(clipnorm=gradient_clipping_norm)
 malstm.compile(loss='mean_squared_error', 
                 #optimizer=optimizer, 
                 metrics=['accuracy'])
+malstm.summary()
 
 # Start training
+
+tensorboard_callback = tf.keras.callbacks.TensorBoard(log_dir=MODEL_SAVING_DIR + 'log', histogram_freq=1)
+
 training_start_time = time()
 
-malstm_trained = malstm.fit([X_train['left'], X_train['right']], Y_train, batch_size=batch_size, epochs=n_epoch,
-                            validation_data=([X_validation['left'], X_validation['right']], Y_validation))
+malstm_trained = malstm.fit([X_train['left'], X_train['right']], Y_train, 
+                            batch_size=batch_size, 
+                            epochs=n_epoch,
+                            validation_data=([X_validation['left'], X_validation['right']], Y_validation),
+                            callbacks=[tensorboard_callback])
 
 print("Training time finished.\n{} epochs in {}".format(n_epoch, datetime.timedelta(seconds=time()-training_start_time)))
+malstm.save(MODEL_SAVING_DIR + usr)
+
 
 # Plot accuracy
 plt.plot(malstm_trained.history['accuracy'])
@@ -169,7 +181,7 @@ plt.title('Model Accuracy')
 plt.ylabel('Accuracy')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Validation'], loc='upper left')
-plt.show()
+plt.savefig('plt/plt_acc.png')
 
 # Plot loss
 plt.plot(malstm_trained.history['loss'])
@@ -178,4 +190,4 @@ plt.title('Model Loss')
 plt.ylabel('Loss')
 plt.xlabel('Epoch')
 plt.legend(['Train', 'Validation'], loc='upper right')
-plt.show()
+plt.savefig('plt/plt_loss.png')

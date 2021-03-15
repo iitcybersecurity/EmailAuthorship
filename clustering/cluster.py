@@ -35,6 +35,9 @@ with open("preprocess/USERS.txt", "r") as users:
 t_dataset = read_data(base_dir, target_user)
 nt_dataset = read_data(base_dir, non_target)
 
+#t_dataset = t_dataset[:50]
+#nt_dataset = nt_dataset[:50]
+
 num_samples = min(len(t_dataset), len(nt_dataset))
 
 user = [0 for i in range(num_samples)]
@@ -138,10 +141,17 @@ Y=model.fit_transform(X)
 plt.scatter(Y[:, 0], Y[:, 1], c=assigned_clusters, s=290,alpha=.5)
 
 split = int(len(sentences)/6)
-print("split", split) 
-cluster_csv = os.path.join(log_dir, '{}.csv'.format(target_user)) 
-with open(cluster_csv, 'w') as f:
-    f.write("Sent1,Sent2,Same\n")
+test_size = int(0.1*split)
+
+print("split", split , "test", test_size) 
+train_csv = os.path.join(log_dir, '{}.csv'.format("train_" + target_user)) 
+test_csv = os.path.join(log_dir, '{}.csv'.format("test_" + target_user)) 
+
+
+with open(train_csv, 'w') as f1, open(test_csv, 'w') as f2:
+    f1.write("Sent1,Sent2,Same\n")
+    f2.write("Sent1,Sent2,Same\n")
+
     for j in range(len(sentences)):
         plt.annotate(assigned_clusters[j],xy=(Y[j][0], Y[j][1]),xytext=(0,0),textcoords='offset points')
         same0 = []
@@ -150,17 +160,20 @@ with open(cluster_csv, 'w') as f:
         
         if(j < 2*split):
             #same = 1
-            if(j in range(0, split)):
+            if j in range(0, split):
                 sent0 = ' '.join(sentences[j])
-                sent1 = ' '.join(sentences[j+split])
+                sent1 = ' '.join(sentences[j+split])                    
 
             #same = 0
-            if(j in range(split, 2*split)):
+            if j in range(split, 2*split):
                 sent0 = ' '.join(sentences[j+split])
                 sent1 = ' '.join(sentences[j+split*2])
                 is_same = 0
 
-            f.write("{},{},{}\n".format(sent0, sent1, is_same))
+            if j in range(0, test_size) or j in range(split, split + test_size): #test
+                f2.write("{},{},{}\n".format(sent0, sent1, is_same))
+            else:
+                f1.write("{},{},{}\n".format(sent0, sent1, is_same))
         
 
 '''    
